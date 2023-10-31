@@ -69,9 +69,9 @@ public partial class BookingDBContext : DbContext
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK__Bookings__Doctor__72C60C4A");
 
-            entity.HasOne(d => d.Hospital).WithMany(p => p.Bookings)
-                .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK__Bookings__Hospit__71D1E811");
+            //entity.HasOne(d => d.Hospital).WithMany(p => p.Bookings)
+            //    .OnDelete(DeleteBehavior.ClientSetNull)
+            //    .HasConstraintName("FK__Bookings__Hospit__71D1E811");
 
             entity.HasOne(d => d.Patient).WithMany(p => p.Bookings)
                 .OnDelete(DeleteBehavior.ClientSetNull)
@@ -99,9 +99,9 @@ public partial class BookingDBContext : DbContext
 
             entity.Property(e => e.IsActive).HasDefaultValueSql("((1))");
 
-            entity.HasOne(d => d.Hospital).WithMany(p => p.Doctors)
-                .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK__Doctors__Hospita__6D0D32F4");
+            //entity.HasOne(d => d.Hospital).WithMany(p => p.Doctors)
+            //    .OnDelete(DeleteBehavior.ClientSetNull)
+            //    .HasConstraintName("FK__Doctors__Hospita__6D0D32F4");
 
             entity.HasOne(d => d.Service).WithMany(p => p.Doctors)
                 .OnDelete(DeleteBehavior.ClientSetNull)

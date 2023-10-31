@@ -30,7 +30,7 @@ namespace BIM.Booking.Infrastructure.Implementations.Services
             var hop = await _hospitalRepository.Get(id);
             if (hop == null)
             {
-                throw new NotFoundException($"No data found for Hospital Id - {id}");
+                throw new Application.NotFoundException($"No data found for Hospital Id - {id}");
             }
             else
             {
@@ -45,7 +45,7 @@ namespace BIM.Booking.Infrastructure.Implementations.Services
             var hop = await _hospitalRepository.GetAll();
             if (hop == null)
             {
-                throw new NotFoundException($"No data found for Hospital list ");
+                throw new Application.Middleware.NotFoundException($"No data found for Hospital list ");
             }
             else
             {
@@ -67,7 +67,7 @@ namespace BIM.Booking.Infrastructure.Implementations.Services
             var oldHospital = await _hospitalRepository.Get(hospital.HospitalId);
             if (oldHospital == null)
             {
-                throw new NotFoundException($"No data found to update for Id - {hospital.HospitalId}");
+                throw new Application.Middleware.NotFoundException($"No data found to update for Id - {hospital.HospitalId}");
             }
             else
             {
@@ -88,7 +88,7 @@ namespace BIM.Booking.Infrastructure.Implementations.Services
             var hospital = await _hospitalRepository.Get(id);
             if (hospital == null)
             {
-                throw new NotFoundException($"No data found to Delete for Id - {id}");
+                throw new Application.Middleware.NotFoundException($"No data found to Delete for Id - {id}");
             }
             else
             {

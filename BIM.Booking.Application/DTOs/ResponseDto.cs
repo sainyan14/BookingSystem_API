@@ -5,8 +5,6 @@ using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 
-
-
 namespace BIM.Booking.Application.DTOs
 {
     public class ResponseDto<T>

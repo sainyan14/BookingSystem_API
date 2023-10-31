@@ -63,3 +63,14 @@ C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.Infrastructure\obj\Debug\net6.0
 C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.Infrastructure\obj\Debug\net6.0\BIM.Booking.Infrastructure.dll
 C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.Infrastructure\obj\Debug\net6.0\refint\BIM.Booking.Infrastructure.dll
 C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.Infrastructure\obj\Debug\net6.0\BIM.Booking.Infrastructure.pdb
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.Infrastructure\bin\Debug\net6.0\BIM.Booking.Infrastructure.deps.json
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.Infrastructure\bin\Debug\net6.0\BIM.Booking.Infrastructure.runtimeconfig.json
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.Infrastructure\bin\Debug\net6.0\BIM.Booking.Infrastructure.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.Infrastructure\bin\Debug\net6.0\BIM.Booking.Infrastructure.pdb
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.Infrastructure\bin\Debug\net6.0\BIM.Booking.Application.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.Infrastructure\bin\Debug\net6.0\BIM.Booking.Domain.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.Infrastructure\bin\Debug\net6.0\BIM.Booking.Application.pdb
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.Infrastructure\bin\Debug\net6.0\BIM.Booking.Domain.pdb
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.Infrastructure\obj\Debug\net6.0\BIM.Booking.Infrastructure.csproj.CopyComplete
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.Infrastructure\obj\Debug\net6.0\BIM.Booking.Infrastructure.genruntimeconfig.cache
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.Infrastructure\obj\Debug\net6.0\ref\BIM.Booking.Infrastructure.dll
