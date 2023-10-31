@@ -1,0 +1,317 @@
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\appsettings.json
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.WebApi.exe
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.WebApi.deps.json
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.WebApi.runtimeconfig.json
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.WebApi.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.WebApi.pdb
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\AutoMapper.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Humanizer.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Application.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Domain.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Infrastructure.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Application.pdb
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Domain.pdb
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Infrastructure.pdb
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.csproj.AssemblyReference.cache
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.AssemblyInfoInputs.cache
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.AssemblyInfo.cs
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.csproj.CoreCompileInputs.cache
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.BIM.Booking.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.BIM.Booking.WebApi.props
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BIM.Booking.WebApi.props
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BIM.Booking.WebApi.props
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\scopedcss\bundle\BIM.Booking.WebApi.styles.css
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.csproj.CopyComplete
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\refint\BIM.Booking.WebApi.dll
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.pdb
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.genruntimeconfig.cache
+D:\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\ref\BIM.Booking.WebApi.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.AssemblyInfo.cs
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\refint\BIM.Booking.WebApi.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.pdb
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.WebApi.exe
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.WebApi.deps.json
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.WebApi.runtimeconfig.json
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.WebApi.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.WebApi.pdb
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Application.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Domain.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Infrastructure.dll
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Application.pdb
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Domain.pdb
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Infrastructure.pdb
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.BIM.Booking.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.BIM.Booking.WebApi.props
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BIM.Booking.WebApi.props
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BIM.Booking.WebApi.props
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\scopedcss\bundle\BIM.Booking.WebApi.styles.css
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.csproj.CopyComplete
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.genruntimeconfig.cache
+C:\Users\User\Desktop\New Booking\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\ref\BIM.Booking.WebApi.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\appsettings.Development.json
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\appsettings.json
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.WebApi.exe
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.WebApi.deps.json
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.WebApi.runtimeconfig.json
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.WebApi.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.WebApi.pdb
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\AutoMapper.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Humanizer.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\SendGrid.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\StarkbankEcdsa.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Application.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Domain.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Infrastructure.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Application.pdb
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Domain.pdb
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Infrastructure.pdb
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.csproj.AssemblyReference.cache
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.AssemblyInfoInputs.cache
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.AssemblyInfo.cs
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.csproj.CoreCompileInputs.cache
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.MvcApplicationPartsAssemblyInfo.cs
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.BIM.Booking.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.BIM.Booking.WebApi.props
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BIM.Booking.WebApi.props
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BIM.Booking.WebApi.props
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\scopedcss\bundle\BIM.Booking.WebApi.styles.css
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.csproj.CopyComplete
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\refint\BIM.Booking.WebApi.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.pdb
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.genruntimeconfig.cache
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\obj\Debug\net6.0\ref\BIM.Booking.WebApi.dll
+F:\BIM Intern(Web Development)\Booking_System\BIM.Booking\BIM.Booking.WebApi\bin\Debug\net6.0\FluentAssertions.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.csproj.AssemblyReference.cache
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.AssemblyInfoInputs.cache
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.AssemblyInfo.cs
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.csproj.CoreCompileInputs.cache
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\obj\Debug\net6.0\refint\BIM.Booking.WebApi.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.pdb
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\appsettings.json
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.WebApi.exe
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.WebApi.deps.json
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.WebApi.runtimeconfig.json
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.WebApi.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.WebApi.pdb
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\FluentAssertions.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Humanizer.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\SendGrid.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Application.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Domain.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Infrastructure.dll
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Application.pdb
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Domain.pdb
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\bin\Debug\net6.0\BIM.Booking.Infrastructure.pdb
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\obj\Debug\net6.0\scopedcss\bundle\BIM.Booking.WebApi.styles.css
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.csproj.CopyComplete
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\obj\Debug\net6.0\BIM.Booking.WebApi.genruntimeconfig.cache
+C:\BIM\BIM_Source\BIM_Booking_System\BIM.Booking.WebApi\obj\Debug\net6.0\ref\BIM.Booking.WebApi.dll

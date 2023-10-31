@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XzkTX4lWTRnXiC2WPAiQPtXR/e/WrdJFzQkYPGZjvNs=",
+  "Source": "BIM.Booking.WebApi",
+  "BasePath": "_content/BIM.Booking.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

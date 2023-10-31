@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BIM.Booking.WebApi.props" />
+</Project>
